@@ -1,4 +1,4 @@
-![Neon Future Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfdd82eb-f593-4454-a7b6-5df8d6108258/deq0q04-818189f7-d764-493c-83a4-c76a264b1c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmZGQ4MmViLWY1OTMtNDQ1NC1hN2I2LTVkZjhkNjEwODI1OFwvZGVxMHEwNC04MTgxODlmNy1kNzY0LTQ5M2MtODNhNC1jNzZhMjY0YjFjNTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Od1l6eMpbJp-ILjKk-7RhbT5jrAh_OcY3msgULie4Cs)
+![Backround](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfdd82eb-f593-4454-a7b6-5df8d6108258/deq0q04-818189f7-d764-493c-83a4-c76a264b1c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmZGQ4MmViLWY1OTMtNDQ1NC1hN2I2LTVkZjhkNjEwODI1OFwvZGVxMHEwNC04MTgxODlmNy1kNzY0LTQ5M2MtODNhNC1jNzZhMjY0YjFjNTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Od1l6eMpbJp-ILjKk-7RhbT5jrAh_OcY3msgULie4Cs)
 
 ### Hello 👋, I'm Temuulen Altangerel!
 
@@ -12,7 +12,8 @@ I'm a **Computer Science student** at **SeoulTECH** with a passion for learning 
 ---
 ### 🌱 I’m currently working on:
 - Getting comfortable with GitHub 
-- Exploring **open-source projects** 
+- Exploring **open-source projects**
+- Preparing English proficiency Test **"Ielts and IBT Toefl"**
 ---
 ### ✨ A little about me:
 - 📚 I love **reading books** in my free time
